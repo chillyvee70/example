@@ -1,3 +1,3 @@
 # It's On Bitch
 
-Creating a demo for these ho's!
+Creating a demo for these ho's! U want some mo'!
