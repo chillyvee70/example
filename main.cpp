@@ -7,6 +7,7 @@
 #include "matrix.h"
 #include "simulation.h"	
 
+//ADDing a trackable comment 
 class Matrix;
 class Simulation;
 
@@ -14,7 +15,7 @@ int main() {
 
 	const int numLife = 4;
 	Life **population = new Life*[numLife];
-
+	
 	population[0] = new Boat(8, 4); 
 	population[1] = new Snake(18, 14);
 	population[2] = new BigBlink(3, 13);
