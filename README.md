@@ -1,3 +1,3 @@
-# It's On Bitch
+# This is intro for Folder1
 
-Creating a demo for these ho's! U want some mo'!
+We are settoing up to store C++ projects
