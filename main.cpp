@@ -8,6 +8,7 @@
 #include "simulation.h"	
 
 //ADDing a trackable comment.What the fuck!
+//Game matrix simulation
 class Matrix;
 class Simulation;
 
